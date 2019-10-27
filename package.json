@@ -1,0 +1,26 @@
+{
+  "name": "hexo-uploadcare",
+  "version": "0.0.1",
+  "description": "Hexo plugin to add images from Uploadcare",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tvdias/hexo-uploadcare"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "tag",
+    "uploadcare"
+  ],
+  "author": "Thiago Vaz Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvdias/hexo-uploadcare/issues"
+  },
+  "homepage": "https://github.com/tvdias/hexo-uploadcare",
+  "devDependencies": {}
+}
